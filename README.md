@@ -8,7 +8,7 @@ test
 </head>
 </body>
 <?php
-echo 'bonjour'
+echo 'sava'
 ?>
 </body>
 </html>
